@@ -1,0 +1,8 @@
+<servlet>
+		<servlet-name>LeftJoin</servlet-name>
+		<servlet-class>LeftJoin</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>LeftJoin</servlet-name>
+		<url-pattern>/LeftJoin</url-pattern>
+	</servlet-mapping>
