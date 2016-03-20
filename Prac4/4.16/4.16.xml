@@ -1,0 +1,8 @@
+	<servlet>
+		<servlet-name>SessionLastAccessTime</servlet-name>
+		<servlet-class>SessionLastAccessTime</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SessionLastAccessTime</servlet-name>
+		<url-pattern>/SessionLastAccessTime</url-pattern>
+	</servlet-mapping>
