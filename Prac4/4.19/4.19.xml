@@ -1,0 +1,9 @@
+<servlet>
+<servlet-name>ServletInsertingData</servlet-name>
+<servlet-class>ServletInsertingData</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ServletInsertingData</servlet-name>
+<url-pattern>/ServletInsertingData</url-pattern>
+</servlet-mapping>
+  
