@@ -1,0 +1,8 @@
+<servlet>
+<servlet-name>chceking1</servlet-name>
+<servlet-class>chceking1</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>chceking1</servlet-name>
+<url-pattern>/chceking1</url-pattern>
+</servlet-mapping>
