@@ -8,3 +8,5 @@ Inside this method call the getWriter() method of the PrintWriter class. We can 
 If the record will get inserted in the table then output will show "record has been inserted"  otherwise "sorry! Failure".
 
 
+![4 21 1](https://cloud.githubusercontent.com/assets/16942766/13903078/1e370a30-ee90-11e5-940a-2b43775cee34.jpg)
+![4 21 2](https://cloud.githubusercontent.com/assets/16942766/13903080/2296e550-ee90-11e5-84c2-9c6f83ab66a4.jpg)
